@@ -1,0 +1,67 @@
+html{
+  background-image: linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.5) ), url("images/background-image.jpg");
+  background-size: cover;
+}
+/* Home Styling*/
+header{
+  text-align:center;
+  font-family: 'Courier New', monospace;
+  font-size:30px;
+  font-weight:100;
+  color:rgba(255, 208, 0, 0.774);
+}
+nav {
+  float: center;
+  font-size: 15px;
+  padding-top: 0px;
+  color: aliceblue;
+}
+a{
+  color:aliceblue;
+}
+main {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  color:aliceblue;
+  padding-top: 50px;
+  font-size: 18px;
+
+}
+.homemain img{
+margin-top: 30px;
+border-radius: 50%;
+width:120px;
+height: 110px;
+align-self: center;
+}
+hr{
+  width: 300px;
+  color:rgba(255, 208, 0, 0.774);
+  margin-top: 100px;
+}
+.homemain h2{
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.homefooter{
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  color: aliceblue;
+  
+}
+.homefooter img {
+  width: 50px;
+}
+.github{
+  margin-right: 200px;
+}
+/* Projects and Proficiecy Page Styling*/
+.projectsmain h3{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+.projectsheading{
+  font-size: 50px;
+}
