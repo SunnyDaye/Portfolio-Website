@@ -19,6 +19,12 @@ nav {
 a{
   color:aliceblue;
 }
+a:hover{
+  color: aquamarine;
+}
+a:clicked{
+  color: red;
+}
 main {
   font-family: 'Courier New', monospace;
   text-align: center;
